@@ -302,7 +302,9 @@ Screenshot locations are provided below. Insert your captured images at the mark
 
 ### Screenshot 1: Main Dashboard
 
-[main.jpg]
+
+![Mawingu](main.jpg)
+
 
 *Description: The main application window showing the sidebar navigation and the active tab content area. The dark theme interface displays the Port Scanner module as the default view.*
 
@@ -312,7 +314,7 @@ Screenshot locations are provided below. Insert your captured images at the mark
 
 ### Screenshot 2: Port Scanner Results
 
-[portscan]
+![Mawingu](portscan.jpg)
 
 *Description: Port scanner module displaying scan results with open ports highlighted. The terminal shows discovered services and the statistics cards display scanned ports count, open ports, and closed ports.*
 
@@ -322,7 +324,7 @@ Screenshot locations are provided below. Insert your captured images at the mark
 
 ### Screenshot 3: ICMP Attack Configuration
 
-[icmp.jpg]
+![Mawingu](icmp.jpg)
 
 *Description: ICMP Attack tab showing configuration options including target input field with multiple targets, count setting with infinite checkbox, and interval slider/input.*
 
@@ -332,7 +334,7 @@ Screenshot locations are provided below. Insert your captured images at the mark
 
 ### Screenshot 4: ICMP Attack Active
 
-[INSERT SCREENSHOT HERE]
+![Mawingu](icmpact.jpg)
 
 *Description: ICMP Attack module during an active flood. The statistics cards show increasing numbers, the terminal displays ping responses with timestamps, and the stop button is highlighted.*
 
@@ -342,7 +344,7 @@ Screenshot locations are provided below. Insert your captured images at the mark
 
 ### Screenshot 5: DNS Attack Configuration
 
-[INSERT SCREENSHOT HERE]
+![Mawingu](dns.jpg)
 
 *Description: DNS Attacks tab with DNS server dropdown expanded showing common server options. Query type selector displays available record types.*
 
@@ -352,7 +354,7 @@ Screenshot locations are provided below. Insert your captured images at the mark
 
 ### Screenshot 6: DNS Attack Results
 
-[INSERT SCREENSHOT HERE]
+![Mawingu](dnsatt.jpg)
 
 *Description: DNS attack results showing successful and failed queries. The terminal displays response times and the statistics cards show query counts.*
 
@@ -362,7 +364,7 @@ Screenshot locations are provided below. Insert your captured images at the mark
 
 ### Screenshot 7: Results Export Dialog
 
-[INSERT SCREENSHOT HERE]
+![Mawingu](report.jpg)
 
 *Description: File save dialog appearing after clicking the Save Results button. The dialog shows the default filename with timestamp.*
 
